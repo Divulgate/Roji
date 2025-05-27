@@ -1,0 +1,38 @@
+{
+  "name": "game",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Modules": {
+        "$path": "src/modules"
+      }
+    },
+
+    "ServerScriptService": {
+      "Controller": {
+        "$path": "src/server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Controller": {
+          "$path": "src/client"
+        }
+      }
+    },
+
+    "ServerStorage": {
+      "Modules": {
+        "$path": "src/servermodules"
+      }
+    },
+
+    "SoundService": {
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}
