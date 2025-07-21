@@ -1,12 +1,11 @@
 `aftman install`  
-replace the id in `lune/download-place.luau`  
+replace the id in `lune/lib/downloadPlaceAsset.luau`  
 `lune run download-place`  
-replace the id in `lune/import-assets.luau`  
-`lune run import-assets`  
+make sure you have `game.ReplicatedStorage.Assets` in your game, then run `lune run import-assets`.  
 `wally install` or `mkdir Packages`  
-`npm i -g moonwave`  
+`bun i -g moonwave` (or npm :()  
 change `creator.id` in `asphalt.toml`, and change `creator.type` to `user` if required.  
-make a `.env` file from `.env.example`
+make a `.env` file from `.env.example` (use https://create.roblox.com/dashboard/credentials?activeTab=ApiKeysTab)
 
 then do  
 `rojo build -o game.rbxl`  
