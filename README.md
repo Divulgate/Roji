@@ -1,4 +1,7 @@
 `aftman install`
-`wally install`
 `mkdir Packages`
-`rojo serve`
+`wally install`
+`npm i -g moonwave`
+`rojo serve`  
+and eventually
+`moonwave dev` for docs
