@@ -2,3 +2,4 @@
 Packages/
 .env
 *.lock*
+sourcemap.json
