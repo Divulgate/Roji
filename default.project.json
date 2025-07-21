@@ -9,9 +9,6 @@
       },
       "Packages": {
         "$path": "Packages"
-      },
-      "Assets": {
-      	"$path": "assets"
       }
     },
 
@@ -33,14 +30,6 @@
       "Modules": {
         "$path": "src/servermodules"
       }
-    },
-    
-    "Workspace": {
-    	"$path": "map/Workspace.rbxm"
-    },
-    
-    "Lighting": {
-    	"$path": "map/Lighting.rbxm"
     },
 
     "SoundService": {
