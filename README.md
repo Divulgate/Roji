@@ -1,7 +1,9 @@
-`aftman install`
-`mkdir Packages`
-`wally install`
-`npm i -g moonwave`
+`aftman install`  
+`wally install` or `mkdir Packages`  
+`bun i -g moonwave` (or npm :()
+
+then do  
 `rojo serve`  
-and eventually
-`moonwave dev` for docs
+every time you want to push changes  
+
+and eventually `moonwave dev` for docs
