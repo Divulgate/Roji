@@ -1,9 +1,14 @@
 # Project place file
 /game.rbxlx
+/game.rbxl
 
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
+/*.rbxmx.lock
+/*.rbxm.lock
 
 wally.lock
 Packages/
+
+.env
