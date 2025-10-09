@@ -26,6 +26,11 @@
         "Controller": {
           "$path": "src/client"
         }
+      },
+      "StarterCharacterScripts": {
+        "Controller": {
+          "$path": "src/character"
+        }
       }
     },
 
