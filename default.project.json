@@ -5,13 +5,10 @@
 
     "ReplicatedStorage": {
       "Modules": {
-        "$path": "src/modules"
+        "$path": "src/modules/shared"
       },
       "Packages": {
         "$path": "Packages"
-      },
-      "Assets": {
-      	"$path": "assets"
       }
     },
 
@@ -36,16 +33,8 @@
 
     "ServerStorage": {
       "Modules": {
-        "$path": "src/servermodules"
+        "$path": "src/modules/server"
       }
-    },
-    
-    "Workspace": {
-    	"$path": "map/Workspace.rbxm"
-    },
-    
-    "Lighting": {
-    	"$path": "map/Lighting.rbxm"
     },
 
     "SoundService": {
