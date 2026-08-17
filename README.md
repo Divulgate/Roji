@@ -1,6 +1,5 @@
-`aftman install`  
-`wally install` or `mkdir Packages`  
-`bun i -g moonwave` (or npm :()
+`mise install`  
+`wally install` or `mkdir Packages`
 
 then do  
 `rojo build -o game.rbxl`  
