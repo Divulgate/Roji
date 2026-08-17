@@ -3,7 +3,7 @@ npm.package_manager = "bun"
 
 # To add a new tool, add an entry to this table.
 [tools]
-"cargo:rojo" = "7.7.0"
-"cargo:wally" = "0.3.2"
+"cargo:rojo" = "latest"
+"cargo:wally" = "latest"
 "bun" = 'latest'
 "npm:moonwave" = 'latest'
